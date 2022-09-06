@@ -3,6 +3,6 @@ package lang.print.gaps.task1;
 public class PrintWordsApp {
     public static void main(String[] args) {
         //write your code here
-        log.info("java is smth");
+        System.out.println("java\nis\nsmth");
     }
 }
